@@ -1,2 +1,3 @@
-# base-apparel-coming-soon
+# Base Apparel Coming Soon Challenge
+
 Another challenge taken from Frontend Mentor
